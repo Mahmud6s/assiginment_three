@@ -1,5 +1,5 @@
-<php
+<?php
 
-$string = "Hello, World!";
+$string = "BROWN,RED";
 $lowercase = strtolower($string);
 echo $lowercase;
